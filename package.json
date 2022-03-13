@@ -1,0 +1,23 @@
+{
+  "name": "ceshi",
+  "version": "1.0.0",
+  "description": "测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daidaitu-png/ceshi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daidaitu-png/ceshi/issues"
+  },
+  "homepage": "https://github.com/daidaitu-png/ceshi#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
